@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "socket.io": "*",
-    "express": "*"
+    "express": "*",
+    "amd-loader": "*"
   }
 }
